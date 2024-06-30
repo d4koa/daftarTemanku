@@ -1,3 +1,10 @@
+# Daftar Temanku
+Aplikasi yang dibangun menggunakan React Native yang dibuat pada expo.dev.
+
+Pada aplikasi daaftarTemanku yang sederhana ini, hanya memiliki fitur untuk menampilkan list teman, kemudian terdapat tombol "LIHAT DETAIL" yang ketika ditekan akan menampilkan detail dari kontak teman yang dipilih.
+
+Kode program dan assets saya masukkan kedalam repository ini, Anda dapat mengaksesnya...
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
